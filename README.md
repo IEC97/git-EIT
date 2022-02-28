@@ -1,36 +1,21 @@
-# Foobar
+# Git EIT: Proyecto realizado en curso iniciado el 19-02-2022
 
-Foobar is a Python library for dealing with word pluralization.
+Este proyecto fue creado durante el curso de GIT.
 
-## Installation
+## Instalación
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Acontinuacion se describe los paquetes necesarios para correr la aplicacion.
 
-```bash
-pip install foobar
+- Instalar nodejs version x ()
+- Instalar maridb version x ()
+- Dependecnias necesarias
+
+```node
+npm install
 ```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## Uso
+
 ```node
 node validate.js
 ```
